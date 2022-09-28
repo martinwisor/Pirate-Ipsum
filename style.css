@@ -1,0 +1,21 @@
+body {
+  max-width: 800;
+  background-color: #ccc;
+}
+header {
+  font-family: "Seaweed Script", cursive;
+}
+main {
+  font-family: "Nanum Brush Script", cursive;
+}
+#ship {
+  float: right;
+  margin: 0 0 0 15px;
+}
+footer {
+  font-family: "Nanum Brush Script", cursive;
+}
+#chest {
+  float: left;
+  margin: 0 15px 0 0;
+}
